@@ -1,10 +1,5 @@
 # BUILD-AN-E-COMMERCE-WEBSITE-USING-AWS-SERVICES
-Table of contents
-Introduction
-Host a website in Amazon S3
-Associate a custom domain with Amazon Route 53
-Host a personal portfolio online
-Conclusion
+
 Ecommerce analytics is the process of collecting data from all of the sources that affect a certain shop. Analysts can then utilize this information to deduce changes in customer behavior and online shopping patterns.
 For most applications, websites can run with only client side code and be comprised of only HTML, CSS and JavaScript. Such websites are usually defined as static websites. With no server side code to run or maintain there is no point in using conventional web servers.
 Amazon Web Services (AWS) offers multiple options for hosting static or dynamic websites. For static content, the simplest and most affordable option is the Amazon Simple Storage Service (S3).
